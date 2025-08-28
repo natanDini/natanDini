@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanDini&layout=compact&langs_count=8&theme=transparent" alt="Top languages" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=natanDini&show_icons=true&theme=transparent" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=natanDini&theme=transparent" alt="GitHub streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanDini&layout=compact&langs_count=8&theme=highcontrast" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=natanDini&show_icons=true&theme=highcontrast" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=natanDini&theme=highcontrast" alt="GitHub streak" />
 </p>
 
 <p align="center">
