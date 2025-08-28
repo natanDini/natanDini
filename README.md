@@ -1,30 +1,40 @@
-# Natan Diniz — Desenvolvedor de Software Full Stack
+<p align="center">
+  <img src="./images/natan.jpg" alt="Natan Diniz — Full-Stack Software Developer banner" />
+</p>
 
-Sou Desenvolvedor de Software na **Search Tecnologia** e bolsista de **Pesquisa & Desenvolvimento em IA** no **HBr/CIIA — Instituto Hardware BR / Centro Integrado de Inteligência Artificial**. Atuo principalmente com **Java** no back-end e **Angular** no front-end, com foco em código limpo, performance e entrega consistente.
+<p align="center">
+  <a href="www.linkedin.com/in/natan-gabriel-santos-diniz-3aa00b28a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8C0335?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=natanDIni&style=for-the-badge&label=visitors" alt="Profile views" />
+</p>
 
-## Formação
-- **Graduando em Sistemas de Informação** — *UnDF (Universidade do Distrito Federal Prof. Jorge Amaury Maia Nunes)*
+<h2 align="center">Natan Diniz — Full-Stack Software Developer</h2>
 
-## Competências Técnicas
-- **Linguagens:** Java (principal), contato com Python, JavaScript, TypeScript, C, PL/SQL  
-- **Back-end:** Spring Boot (principal), contato com Node.js  
-- **Front-end:** Angular (principal), contato com React  
-- **Mobile:** contato com React Native  
-- **Bancos de Dados:** Oracle Database, PostgreSQL, MySQL, H2Database e SQLite
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com?size=22&width=550&lines=Java+%2B+Spring+Boot+%7C+Angular+19;Microservices%2C+PostgreSQL%2C+OracleDB;Clean+Code%2C+Performance+%26+Delivery">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&width=550&lines=Java+%2B+Spring+Boot+%7C+Angular+19;Microservices%2C+PostgreSQL%2C+OracleDB;Clean+Code%2C+Performance+%26+Delivery" alt="Typing intro" />
+  </a>
+</p>
 
-## Experiência
-- **Search Tecnologia:** desenvolvimento full stack de aplicações empresariais, manutenção evolutiva de sistemas legados e integração com bancos Oracle/PostgreSQL.  
-- **HBr/CIIA:** pesquisa aplicada em **Inteligência Artificial**, com ênfase em desenvolvimento experimental e prototipagem de soluções.
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanDini&layout=compact&langs_count=8&theme=radical" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=natanDini&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=natanDini&theme=radical" alt="GitHub streak" />
+</p>
 
-## Projetos & Portfólio
-Tenho poucos projetos **open source** públicos no momento, pois atuei majoritariamente em soluções de terceiros e **repositórios privados**.  
-> *Portfólio e repositórios adicionais disponíveis sob demanda.*
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-8C0335?logo=openjdk&logoColor=white"/>
+  <img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot-17A0BF?logo=springboot&logoColor=white"/>
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-F22222?logo=angular&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-32648C?logo=postgresql&logoColor=white"/>
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle_DB-F29422?logo=oracle&logoColor=white"/>
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-000000?logo=apachekafka&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+</p>
 
-## Certificações
-Possuo **certificações na área de tecnologia**.  
-> *Lista detalhada mediante solicitação.*
-
-## Soft Skills
-- **Proatividade** e **disciplina**, com foco em qualidade, clareza de requisitos e cumprimento de prazos.
-
-> Aberto a colaborações, consultorias e oportunidades em que possa somar com minha experiência em **Java/Spring Boot**, **Angular** e **IA aplicada**.
+<p align="center">
+  💼 <a href="https://www.linkedin.com/in/natan-gabriel-santos-diniz-3aa00b28a/">LinkedIn</a><br/>
+  🌐 <a href="https://natandiniz.github.io/">Portfolio</a>
+</p>
