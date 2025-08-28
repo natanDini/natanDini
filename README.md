@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://natandiniz.github.io/">
+  <a href="https://natanDini.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Read-17A0BF?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/natan-gabriel-santos-diniz-3aa00b28a/">
