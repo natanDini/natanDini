@@ -25,7 +25,7 @@
   <a href="https://natandiniz.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Read-17A0BF?style=for-the-badge" alt="Portfolio" />
   </a>
-  <a href="www.linkedin.com/in/natan-gabriel-santos-diniz-3aa00b28a/">
+  <a href="https://www.linkedin.com/in/natan-gabriel-santos-diniz-3aa00b28a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-8C0335?style=for-the-badge" alt="LinkedIn" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=natanDIni&style=for-the-badge&label=visitors" alt="Profile views" />
