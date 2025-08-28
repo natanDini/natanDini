@@ -1,26 +1,13 @@
 <p align="center">
-  <img src="./images/natan.jpg" alt="Natan Diniz — Full-Stack Software Developer banner" />
-</p>
-
-<p align="center">
-  <a href="www.linkedin.com/in/natan-gabriel-santos-diniz-3aa00b28a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-8C0335?style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=natanDIni&style=for-the-badge&label=visitors" alt="Profile views" />
-</p>
-
-<h2 align="center">Natan Diniz — Full-Stack Software Developer</h2>
-
-<p align="center">
   <a href="https://readme-typing-svg.herokuapp.com?size=22&width=550&lines=Java+%2B+Spring+Boot+%7C+Angular+19;Microservices%2C+PostgreSQL%2C+OracleDB;Clean+Code%2C+Performance+%26+Delivery">
     <img src="https://readme-typing-svg.herokuapp.com?size=22&width=550&lines=Java+%2B+Spring+Boot+%7C+Angular+19;Microservices%2C+PostgreSQL%2C+OracleDB;Clean+Code%2C+Performance+%26+Delivery" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanDini&layout=compact&langs_count=8&theme=radical" alt="Top languages" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=natanDini&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=natanDini&theme=radical" alt="GitHub streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanDini&layout=compact&langs_count=8&theme=transparent" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=natanDini&show_icons=true&theme=transparent" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=natanDini&theme=transparent" alt="GitHub streak" />
 </p>
 
 <p align="center">
@@ -35,6 +22,11 @@
 </p>
 
 <p align="center">
-  💼 <a href="https://www.linkedin.com/in/natan-gabriel-santos-diniz-3aa00b28a/">LinkedIn</a><br/>
-  🌐 <a href="https://natandiniz.github.io/">Portfolio</a>
+  <a href="https://natandiniz.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Read-17A0BF?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="www.linkedin.com/in/natan-gabriel-santos-diniz-3aa00b28a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8C0335?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=natanDIni&style=for-the-badge&label=visitors" alt="Profile views" />
 </p>
